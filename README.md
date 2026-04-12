@@ -66,6 +66,6 @@ I enjoy turning ideas into working products, especially in high-pressure environ
 
 ## 📫 Connect With Me
 
-LinkedIn: [Add Link]
-Email: [Add Email]
+LinkedIn: [https://www.linkedin.com/in/muskan-baghel-061aba324]
+Email: [muskibag430@gmail.com]
 
