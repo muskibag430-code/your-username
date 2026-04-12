@@ -1,4 +1,4 @@
-# Hi, I'm Muski 👋
+# Hi, I'm Muskan 👋
 
 🎓 DSAI Student at IIIT Naya Raipur
 💡 Building AI-powered systems that solve real-world problems
