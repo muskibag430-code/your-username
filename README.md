@@ -23,7 +23,7 @@ I enjoy turning ideas into working products, especially in high-pressure environ
 
 🔹 Hackathons
 
-* EliteHer Hackathon
+* Bold AI - India's 1st Boldest AI Challenge
 * PromptWars
 * Google Solution Challenge
 
