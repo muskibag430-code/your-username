@@ -19,7 +19,7 @@ I enjoy turning ideas into working products, especially in high-pressure environ
 
 * CodeSocial
 * EliteCoders
-* Social Winter of Code
+* Social summer of Code 5
 
 🔹 Hackathons
 
